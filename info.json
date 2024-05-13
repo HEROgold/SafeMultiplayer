@@ -1,0 +1,9 @@
+{
+  "name": "heroic-safe-multiplayer",
+  "version": "0.0.1",
+  "title": "Safe Multiplayer",
+  "author": "HEROgold",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "Automatically makes enemies peaceful when no players are online (Multiplayer, and multiple forces compatible)."
+}
